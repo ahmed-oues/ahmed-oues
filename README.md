@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ahmed Oueslati 👋
 
-<!--
-**ahmed-oues/ahmed-oues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Blockchain Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Currently working on various full-stack projects
+- 🌱 Learning AWS and advanced data structures
+- 💬 Ask me about MERN stack, Django, FastAPI, and blockchain development
+- 📫 How to reach me: [Email](mailto:ahmed.oueslati6110@gmail.com)
+
+---
+
+### Skills
+- **Front-End:** HTML, CSS, JavaScript, React, Angular, Vue.js, Flutter
+- **Back-End:** Node.js, Express.js, Django, FastAPI, Flask, Python
+- **Blockchain:** Blockchain development, dApps, peer-to-peer networking
+- **Databases:** MongoDB, MySQL, PostgreSQL, Oracle
+- **Tools & Platforms:** Docker, Git, AWS, Hadoop, PowerBI
+- **Languages:** C, PHP, Java, Shell Programming, C++
+- **Operating Systems:** Linux, Windows
+- **Methodologies:** UML
+- **Additional Skills:** Data Structures and Algorithms, Machine Learning, System Administration
+
+---
+
+### GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-oues&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-oues&layout=compact&theme=radical)
